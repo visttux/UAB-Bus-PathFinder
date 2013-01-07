@@ -8,7 +8,7 @@ This project is a little android application which returns the optimum path of a
 
 ## Change log
 
-2012 01 07 - **0.1** (76.5 KB)
+2012 01 07 - **0.1** (147 KB)
 
 * First alpha release
 * Added Screenshot, License and Readme
@@ -17,4 +17,4 @@ This project is a little android application which returns the optimum path of a
 
 * Coloring the diferent lines and the transfer between stations
 * Add map with overlay support to select origin-destination and show the path
-* Optimization of transfers ( Taking account of the waiting time between lines )
+* Optimization of transfers ( Taking account the waiting time between lines )
