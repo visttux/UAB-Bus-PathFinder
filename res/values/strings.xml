@@ -1,0 +1,24 @@
+<resources>
+
+    <string name="app_name">UAB Bus PathFinder</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_display">UAB Bus PathFinder</string>
+    <string name="ruta_button">Find Path</string>
+    <string name="origen">Origin</string>
+    <string name="desti">Destination</string>
+	<string-array name="estacions_array">
+        <item>Renfe</item>
+        <item>Eureka</item>
+        <item>CC.Educacio - FTI</item>
+        <item>Ciencies i Biociencies</item>
+        <item>Eix central</item>
+        <item>Escola de Postgrau - FGC</item>
+        <item>Enginyeria - SAF</item>
+        <item>FGC - Eix central</item>
+        <item>Lletres i Psicologia</item>
+        <item>Medicina - CC. Comunicacio</item>
+        <item>Rectorat - Veterinaria</item>
+        <item>Vila nord</item>
+        <item>Vila sud</item>
+    </string-array>
+</resources>

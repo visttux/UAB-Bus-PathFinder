@@ -1,0 +1,49 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <Spinner
+        android:id="@+id/origen_spinner"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="85dp" />
+
+    <Spinner
+        android:id="@+id/desti_spinner"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/origen_spinner"
+        android:layout_below="@+id/origen_spinner"
+        android:layout_marginTop="60dp" />
+
+    <Button
+        android:id="@+id/accept_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/desti_spinner"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="63dp"
+        android:text="@string/ruta_button" />
+
+    <TextView
+        android:id="@+id/textViewOrigen"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/origen_spinner"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="35dp"
+        android:text="@string/origen" />
+    
+    <TextView
+        android:id="@+id/textViewDesti"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/desti_spinner"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="35dp"
+        android:text="@string/desti" />
+
+</RelativeLayout>
