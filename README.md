@@ -3,7 +3,7 @@
 This project is a little android application which returns the optimum path of a transport system (stations) using the A* Algorithm
 
 ## Features
- * Contains all of the UAB bus stations
+ * Contains all the UAB bus stations
  
 
 ## Change log
