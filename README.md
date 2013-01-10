@@ -8,7 +8,7 @@ This project is a little android application which returns the optimum path of a
 
 ## Change log
 
-2012 01 07 - **0.1** (147 KB)
+2013 01 07 - **0.1** (147 KB)
 
 * First alpha release
 * Added Screenshot, License and Readme
